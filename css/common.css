@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Sans-serif;
+	text-align: center;
+}
+
+body {
+	background: #fff7e6;
+	padding: 0 25px;
+}
+
+p, a {
+	font-size: 14pt;
+}
+
+a {
+	text-decoration: none;
+	color: #35c5af;
+}
+
+a:hover {
+	color: #d2c1e6;
+}
+
+a:visited {
+	color: #df272a;
+}

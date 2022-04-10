@@ -1,0 +1,22 @@
+hr {
+	margin: 25px auto;
+	max-width: 1000px;
+}
+
+p {
+	padding: 25px;
+	text-align: justify;
+}
+
+#navbar {
+	margin: 15px;
+}
+
+#navbar a {
+	padding: 10px;
+}
+
+#main {
+	max-width: 700px;
+	margin: auto;
+}

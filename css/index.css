@@ -1,0 +1,17 @@
+body {
+	padding: 50px;
+}
+
+img {
+	margin: 50px;
+	width: 300px;
+}
+
+h2 {
+	margin-bottom: 25px;
+}
+
+a {
+	display: block;
+	margin-bottom: 5px;
+}
