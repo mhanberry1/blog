@@ -1,1 +1,1 @@
-[making this blog](/posts/making-this-blog.html)
+[making this blog](/blog/posts/making-this-blog.html)
