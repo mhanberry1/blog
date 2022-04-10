@@ -35,5 +35,5 @@ function build_recent_posts_list(){
 }
 
 # Main
-#build_posts
+build_posts
 build_recent_posts_list
