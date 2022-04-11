@@ -4,8 +4,12 @@ hr {
 }
 
 p {
-	padding: 25px;
+	padding: 25px 0px;
 	text-align: justify;
+}
+
+#title {
+	margin-top: 25px;
 }
 
 #navbar {
