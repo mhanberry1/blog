@@ -8,6 +8,14 @@ p {
 	text-align: justify;
 }
 
+ul {
+	padding: 25px 50px;
+}
+
+ul * {
+	text-align: left;
+}
+
 #title {
 	margin-top: 25px;
 }

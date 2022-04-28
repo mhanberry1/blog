@@ -6,9 +6,9 @@ So I've been thinking a lot lately about creating a crowd-sourced version of Goo
 
 So the biggest issue with giving a company your data is that you have to put all of your trust in that company. A number of things could go wrong here:
 
-	* The company could go bankrupt
-	* An unauthorized user could steal your data
-	* Your data could be (and probably is) sold for a profit
+* The company could go bankrupt
+* An unauthorized user could steal your data
+* Your data could be (and probably is) sold for a profit
 
 Using an open system would provide transparency so that you can feel confident that your data isn't being mishandled or abused. Crowd-sourcing this solution will also provide redundancy so that your data won't just evaporate one day. After all, open standards can't just go out of business like a company can. If you don't believe me, just consider how the bittorrent protocol continues to thrive despite countless anti-piracy takedown attempts.
 
