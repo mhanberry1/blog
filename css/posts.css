@@ -9,7 +9,7 @@ p {
 }
 
 ul {
-	padding: 25px 50px;
+	padding: 25px min(50px, 10%);
 }
 
 ul * {
