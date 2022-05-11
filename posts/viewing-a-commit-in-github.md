@@ -2,7 +2,7 @@
 
 Whenever I want to browse a particular commit for a repository in github, it's always quite a process. The "intended" way to do it is to go to a branch, click on the commit-history button, then search for the commit hash you are looking for. This is not the best experience, and it's especially difficult when you're not sure which branch has your commit.
 
-# the easy way
+## the easy way
 
 Instead of jumping through hoops, you can go directly to a particular commit by navigating to this link:
 
