@@ -16,6 +16,15 @@ ul * {
 	text-align: left;
 }
 
+code {
+	font-family: mono;
+	background: #d2c1e6;
+	border-radius: 5px;
+	padding: 2px 7px;
+	display: inline-block;
+	margin: 0 5px;
+}
+
 #title {
 	margin-top: 25px;
 }
