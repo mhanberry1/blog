@@ -23,6 +23,9 @@ code {
 	padding: 2px 7px;
 	display: inline-block;
 	margin: 0 5px;
+	max-width: calc(100vw - 75px);
+	overflow: auto;
+	vertical-align: middle;
 }
 
 #title {

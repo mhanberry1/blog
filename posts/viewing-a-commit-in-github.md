@@ -10,7 +10,7 @@ Instead of jumping through hoops, you can go directly to a particular commit by 
 https://github.com/<your-user-name>/<your-repository>/tree/<your-commit-hash>
 ```
 
-Obviously, you should replace `<your-user-name>`, `<your-repository>`, and `<your-commit-hash>` with the appropriate information. For example, to look at a particular commit for my blog, I can use the following link:
+Obviously, you should replace everything surrounded by `< >` with the appropriate information. For example, to look at a particular commit for my blog, I can use the following link:
 
 ```
 https://github.com/mhanberry1/blog/tree/67cfcd20149bd9ec1b8c30a81cd5a346fb503605
